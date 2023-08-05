@@ -21,19 +21,6 @@ Go to the project directory
   cd 1-landing-page-cuvette/
 ```
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Screenshots
 
 https://imgur.com/7n9d2Od
